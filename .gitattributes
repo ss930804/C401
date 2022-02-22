@@ -1,3 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-Build/C401_WebGL_20220218_12Scene.data filter=lfs diff=lfs merge=lfs -text
